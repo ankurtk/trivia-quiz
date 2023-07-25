@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useState } from "react";
 import Quiz from "./components/Quiz";
 import "./App.css";
